@@ -41,6 +41,8 @@ p = \left(1 - e^{-\frac{kn}{m}}\right)^k
 | C      | 300,000  | 100,000   | 5 | 3         | 35.13%          | 34.71%          | 0.42 pts |
 | D      | 500,000  | 100,000   | 3 | 5         | 9.18%           | 9.04%           | 0.14 pts |
 
+![False positive rate vs. number of hash functions, theoretical curves with measured points overlaid](https://res.cloudinary.com/deuj8faqq/image/upload/v1785502823/Screenshot_2026-07-31_at_4.50.09_PM_newnbr.png)
+
 ### Discussion
 
 The measured false-positive rates track the theoretical formula closely across
